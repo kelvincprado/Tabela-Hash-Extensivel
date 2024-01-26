@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1650297329 source:/home/usuario/Documentos/tabelaHashExtensivel/main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<string.h>
+	<stdlib.h>
+	<sstream>
+	<cstdlib>
+
